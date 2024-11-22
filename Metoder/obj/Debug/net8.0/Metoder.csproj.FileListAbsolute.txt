@@ -1,0 +1,15 @@
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\bin\Debug\net8.0\Metoder.exe
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\bin\Debug\net8.0\Metoder.deps.json
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\bin\Debug\net8.0\Metoder.runtimeconfig.json
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\bin\Debug\net8.0\Metoder.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\bin\Debug\net8.0\Metoder.pdb
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.AssemblyInfoInputs.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.AssemblyInfo.cs
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.sourcelink.json
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\refint\Metoder.dll
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.pdb
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\Metoder.genruntimeconfig.cache
+C:\Users\leo.kindstedt\Desktop\programmering\Metoder\Metoder\obj\Debug\net8.0\ref\Metoder.dll

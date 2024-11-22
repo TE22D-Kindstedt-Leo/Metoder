@@ -1,2 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*  1
+static void Hello32()
+{
+    for (var i = 0; i < 32; i++)
+    {
+        Console.WriteLine("Hello World");
+    }
+}
+
+Hello32();
+
+Console.ReadLine();
+ */
+
+
+
+/*   2
+static void kvadrat(int square)
+{
+    Console.WriteLine($"{square * square}");
+}
+
+kvadrat(5);
+
+Console.ReadLine(); */
+
+
